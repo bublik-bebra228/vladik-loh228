@@ -1,0 +1,9 @@
+div {
+	width: 100px;
+	height:100px;
+	background: #00FFCB;
+	transition: width 2s;
+}
+div:horver{
+	width: 300px;
+}
